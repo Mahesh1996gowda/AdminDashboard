@@ -1,0 +1,11 @@
+.App{
+    width: 100vw;
+    height: 100vh;
+}
+.Header{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 2px solid black;
+    justify-content: space-between;
+}
